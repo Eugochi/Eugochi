@@ -1,6 +1,6 @@
 
 # Hi, I'm Ugo Ejidoh👋
-An experienced full stack data analyst with a medical background, and demonstrated experience in handling big data in both public and private sector as well as academia. Expertise includes data cleaning,data analysis, database querying, web scrapping, and data visualization using various analytical tools. Proficiency in using analytical tools like SQL, Python, R, SAS, Tableau, PowerBi, and Excel. 
+An experienced full stack data analyst with a medical background, and demonstrated experience in handling big data in both public and private sector as well as academia. Expertise includes data cleaning,data analysis, database querying, web scraping, and data visualization using various analytical tools. Proficiency in using analytical tools like SQL, Python, R, SAS, Tableau, PowerBi, and Excel. 
 7+ years of experience in customer service with excellent communication skills, and a drive to contribute effectively to making organizational goal a success.
 ## 🚀 About Me
 I'm a full stack Data Analyst with proficiency in using analytical tools like SQL, Python, R, SAS, Tableau, PowerBi, and Excel.
@@ -20,7 +20,7 @@ I'm a full stack Data Analyst with proficiency in using analytical tools like SQ
 1. Data Cleaning
 2. Data Analysis
 3. Data base Querying
-4. Web Scrapping
+4. Web Scraping
 5. Data Visualization
 6. Python
 7. SQL
@@ -35,9 +35,11 @@ I'm a full stack Data Analyst with proficiency in using analytical tools like SQ
 ## Summary Of My Journey
 👩‍💻 Started as a science student with a profound understanding of mathemathics 
 
-🧠 Bachelors in Pharmacy with distinction in Mathematics
+🧠 Bachelors in Pharmacy with distinction in Mathematics 
 
 👯‍♀️ Masters in Public Health, with distinction in biostatistics
+
+👩‍ Data Analyst Certifications and Internships
 
 🤔 I'm looking forward to a PHD in Data Science with a research focus in Artificial intelligence and Machine learning.
 
